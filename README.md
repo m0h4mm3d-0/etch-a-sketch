@@ -1,2 +1,2 @@
 # etch-a-sketch
-flexi js DOM skilss i guess
+flexing   JS DOM manipulation skilss i guess
